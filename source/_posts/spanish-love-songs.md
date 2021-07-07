@@ -6,3 +6,6 @@ comments: true
 cover_index: https://i.ytimg.com/vi/wwA8P9Q1j_o/maxresdefault.jpg
 cover_detail: https://i.ytimg.com/vi/wwA8P9Q1j_o/maxresdefault.jpg
 ---
+
+
+What an amazing album ay 
