@@ -33,4 +33,4 @@ jobs:
           command: cd public/ && aws s3 sync . s3://lukayeh.com
       - run:
           name: Invalidate Distribution 
-          command: aws cloudfront create-invalidation --distribution-id=E2ABXXWA8SYGVO --paths /
+          command: aws cloudfront create-invalidation --distribution-id=E2ABXXWA8SYGVO --paths "/*" > /dev/null
